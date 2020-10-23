@@ -8,6 +8,13 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "angular": "^1.8.0",
+    "bootstrap": "^4.5.2",
+    "core-js": "^3.6.5",
+    "epic-spinners": "^1.1.0",
+    "install": "^0.13.0",
+    "jquery": "^3.5.1",
+    "npm": "^6.14.8",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
